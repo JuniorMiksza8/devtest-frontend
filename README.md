@@ -1,6 +1,6 @@
 # Dev Test 
 
-Simple website created based on Material design made for a developer test 
+Simple React website created based on Material design made for a developer test 
 
 [Demo](https://frontend-devtest.herokuapp.com/) 
 
